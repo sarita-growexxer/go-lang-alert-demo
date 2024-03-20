@@ -1,0 +1,6 @@
+projectKey=go-lang-alert-demo
+serverUrl=https://quality.growexx.com
+serverVersion=8.9.10.61524
+dashboardUrl=https://quality.growexx.com/dashboard?id=go-lang-alert-demo
+ceTaskId=AY5DSWAyfYrd2wbJ4WoD
+ceTaskUrl=https://quality.growexx.com/api/ce/task?id=AY5DSWAyfYrd2wbJ4WoD
